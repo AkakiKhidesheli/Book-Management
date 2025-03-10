@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% block title %} Updating Book {% endblock %}
+
+{% block content %}
+
+{% load crispy_forms_tags %}
+
+<style>
+    body, h2, p, footer {
+        color: white;
+    }
+
+</style>
+<div style="padding-block: 20px; background-image: url('/media/backgrounds/fgjr1.jpg'); background-size: cover; background-position: center">
+
+    <div class="container" style="padding-block: 20px">
+        <h2 class="text-center" style="font-family: 'Noto Serif Georgian', cursive;">
+            <b>📚 You can update book details 📚</b>
+        </h2>
+        <div class="row">
+            <!-- Form on the left side with a white background -->
+            <div class="col-md-6" style="background-color: rgba(223, 230, 233,0.1); padding: 20px; border-radius: 10px; font-family: 'Ubuntu', cursive;">
+                <form method="post" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    {{ form|crispy }}
+                    <div class="d-flex justify-content-start mt-3">
+                        <button type="submit" class="btn btn-success" style="font-weight: bold; margin-right: 10px">Save</button>
+                        <button onclick="history.back()" class="btn btn-info ml-3" style="font-weight: bold;">Back</button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Image on the right side -->
+            <div class="col-md-6">
+                {% if book.cover.url and book.cover %}
+                    <img src="{{ book.cover.url }}" alt="Books Image" class="img-fluid rounded"
+                     style="max-height: 500px; width: auto;">
+                {% else %}
+                    <img src="/media/pexels-rickyrecap-1907784.jpg" alt="Books Image" class="img-fluid rounded">
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
