@@ -1,4 +1,6 @@
 {% extends 'base.html' %}
+{% load i18n %}
+{% block title %} {% trans "Order" %} {% endblock %}
 {% block content %}
 {% load crispy_forms_tags %}
 
@@ -20,7 +22,7 @@
                                 <img src="/media/confirmation.png" alt="Confirmation"
                                      width="125" height="120" style="display: block; border: 0px;"/><br>
                                 <h2 style="font-size: 30px; font-weight: 800; line-height: 36px; margin: 0;">
-                                    Thank You For Your Order!
+                                    {% trans "Thank You For Your Order!" %}
                                 </h2>
                             </td>
                         </tr>
@@ -78,8 +80,7 @@
                                     <tr>
                                         <td align="center" style="border-radius: 5px;" bgcolor="#66b3b7">
                                             <a href="/" target="_blank"
-                                               style="font-size: 18px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 5px; background-color: rgba(155, 89, 182,1.0); padding: 15px 30px; border: 1px solid rgba(155, 89, 182,1.0); display: block;">Main
-                                                Page</a>
+                                               style="font-size: 18px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 5px; background-color: rgba(155, 89, 182,1.0); padding: 15px 30px; border: 1px solid rgba(155, 89, 182,1.0); display: block;">{% trans "Main Page" %}</a>
                                         </td>
                                     </tr>
                                 </table>

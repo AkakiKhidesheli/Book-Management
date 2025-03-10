@@ -19,6 +19,7 @@ from django.core.mail import send_mail
 from django.conf import settings
 from django.views.generic import UpdateView
 from .models import Book, BookLibrary
+from django.utils.translation import gettext_lazy as _
 
 logger = logging.getLogger(__name__)
 
@@ -122,7 +123,7 @@ class BuyBookView(LoginRequiredMixin, UpdateView):
         book = get_object_or_404(Book, pk=book_id)
 
         if book.not_in_stock():
-            messages.error(self.request, 'Book not available')
+            messages.error(self.request, _('Book not available'))
             return redirect('/')
 
         return super().dispatch(request, *args, **kwargs)

@@ -1,6 +1,8 @@
 {% extends 'base.html' %}
+{% load i18n %}
 
-{% block title %} Adding Books {% endblock %}
+
+{% block title %} {% trans "Adding Book" %} {% endblock %}
 
 {% block content %}
 
@@ -16,15 +18,15 @@
 
 <div style="padding-block: 20px; background-image: url('/media/backgrounds/fgjr1.jpg'); background-size: cover; background-position: center">
     <h2 style="justify-content: center; font-family: 'Noto Serif Georgian', cursive; padding-top: 5px; text-align: center">
-        <b>📚 You can add books from this page 📚</b>
+        <b>📚 {% trans "You can add book from this page" %} 📚</b>
     </h2>
     <div style="padding-top: 5px; padding-left: 30%; padding-right: 30%; font-family: 'Ubuntu', 'sans-serif';">
         <div style="background-color: rgba(223, 230, 233, 0.1); border-radius: 10px; padding: 20px;">
             <form method="post" enctype="multipart/form-data"> <!-- enctype for adding -->
                 {% csrf_token %}
                 {{ form|crispy }}
-                <button type="submit" class="btn btn-success mt-3">Add</button>
-                <a href="{% url 'book_list' %}" class="btn btn-danger mt-3">Cancel</a>
+                <button type="submit" class="btn btn-success mt-3">{% trans "Add" %}</button>
+                <a href="{% url 'book_list' %}" class="btn btn-danger mt-3">{% trans "Cancel" %}</a>
             </form>
         </div>
         <footer style="text-align: center; font-size: 12px; margin-top: 15px; font-weight: bold">

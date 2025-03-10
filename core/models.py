@@ -1,5 +1,7 @@
 from django.contrib.auth.models import User
 from django.db import models
+from django.utils.translation import gettext_lazy as _
+
 
 SHELF_CHOICES = (
     (1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6), (7, 7)
@@ -28,17 +30,17 @@ class Language(models.Model):
 
 
 class Book(models.Model):
-    title = models.CharField(max_length=100, null=False, blank=False)
-    author = models.CharField(max_length=100, null=False, blank=False)
-    description = models.TextField(null=True, blank=True)
-    language = models.ForeignKey(Language, on_delete=models.CASCADE, related_name='books', null=True, blank=True)
-    publication_year = models.PositiveIntegerField(null=True, blank=True)
+    title = models.CharField(max_length=100, null=False, blank=False, verbose_name=_("Title"))
+    author = models.CharField(max_length=100, null=False, blank=False, verbose_name=_("Author"))
+    description = models.TextField(null=True, blank=True, verbose_name=_("Description"))
+    language = models.ForeignKey(Language, on_delete=models.CASCADE, related_name='books', null=True, blank=True, verbose_name=_("Language"))
+    publication_year = models.PositiveIntegerField(null=True, blank=True, verbose_name=_("Publication Year"))
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
-    shelf = models.PositiveIntegerField(null=True, blank=True, choices=SHELF_CHOICES)
-    genre = models.ForeignKey(Category, on_delete=models.CASCADE, related_name='books', null=True, blank=True)
-    cover = models.ImageField(upload_to='book_covers/', null=True, blank=True)
-    book_count = models.PositiveIntegerField(null=True, blank=True)
+    shelf = models.PositiveIntegerField(null=True, blank=True, choices=SHELF_CHOICES, verbose_name=_("Shelf"))
+    genre = models.ForeignKey(Category, on_delete=models.CASCADE, related_name='books', null=True, blank=True, verbose_name=_("Genre"))
+    cover = models.ImageField(upload_to='book_covers/', null=True, blank=True, verbose_name=_("Book Cover"))
+    book_count = models.PositiveIntegerField(null=True, blank=True, verbose_name=_("Quantity"))
 
     class Meta:
         db_table = 'books'

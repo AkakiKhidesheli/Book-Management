@@ -1,6 +1,8 @@
 {% extends 'base.html' %}
 
-{% block title %} Login {% endblock %}
+{% load i18n %}
+
+{% block title %} {% trans "Login" %} {% endblock %}
 
 {% load crispy_forms_tags %}
 
@@ -19,12 +21,12 @@
             {% csrf_token %}
             {{ form|crispy }}
             <button type="submit" class="btn btn-success"
-                    style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; margin-right: 5px">Login
+                    style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; margin-right: 5px">{% trans "Login" %}
             </button>
             <a href="{% url 'reset_password' %}" class="btn btn-secondary"
-               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; margin-right: 5px">Reset Password</a>
+               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; margin-right: 5px">{% trans "Reset Password" %}</a>
             <a href="{% url 'registration' %}" class="btn btn-primary"
-               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; margin-right: 5px">Register</a>
+               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; margin-right: 5px">{% trans "Register" %}</a>
         </form>
 
         <footer style="text-align: center; font-size: 12px; margin-top: 15px">
