@@ -1,0 +1,1993 @@
+INFO 2025-02-25 14:02:19,064 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:02:26,566 views: Viewing Book წყალში by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-25 14:02:32,636 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:03:06,334 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-25 14:03:19,724 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-25 14:03:20,531 views: Registered user 'aksdkasjfjsddfjdsf', IP: 127.0.0.1
+INFO 2025-02-25 14:03:20,540 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:03:28,776 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-25 14:03:38,847 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-25 14:03:40,190 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-02-25 14:03:40,200 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:05:02,923 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-25 14:05:16,005 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-25 14:05:16,013 views: Added Book: fdsfsdfsdf by sdfsdfsdf, IP: 127.0.0.1
+INFO 2025-02-25 14:05:16,028 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:05:30,142 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:05:30,142 views: Search Title: წყალში, IP: 127.0.0.1
+INFO 2025-02-25 14:05:30,240 views: Books found: 1
+INFO 2025-02-25 14:07:30,316 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:07:30,316 views: Search Author: სპილოებს, IP: 127.0.0.1
+INFO 2025-02-25 14:07:30,399 views: Books found: 0
+INFO 2025-02-25 14:08:26,957 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:08:26,958 views: Search Title: სპილოებს, Search Author: აგათა, IP: 127.0.0.1
+INFO 2025-02-25 14:08:27,051 views: Books found: 0
+INFO 2025-02-25 14:08:33,596 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:08:57,158 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:09:28,547 views: Viewing Book fdsfsdfsdf by sdfsdfsdf, IP: 127.0.0.1
+INFO 2025-02-25 14:09:30,513 views: Started Editing Book fdsfsdfsdf by sdfsdfsdf, IP: 127.0.0.1
+INFO 2025-02-25 14:09:34,050 views: Started Editing Book fdsfsdfsdf by sdfsdfsdf, IP: 127.0.0.1
+INFO 2025-02-25 14:09:34,064 views: Edited Book fdsfsdfsdf by sdfsdfsdf, IP: 127.0.0.1
+INFO 2025-02-25 14:09:34,183 views: Viewing Book fdsfsdfsdf by sdfsdfsdf, IP: 127.0.0.1
+INFO 2025-02-25 14:09:48,167 views: Started Deleting Book fdsfsdfsdf by sdfsdfsdf, IP: 127.0.0.1
+INFO 2025-02-25 14:09:48,167 views: Deleted Book fdsfsdfsdf by sdfsdfsdf, IP: 127.0.0.1
+INFO 2025-02-25 14:09:48,184 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:10:10,448 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:10:16,198 views: Viewing Book წყალში by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-25 14:10:26,490 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:10:38,588 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:11:43,062 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:12:41,438 views: Viewing Book წყალში by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-25 14:12:49,034 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-02-25 14:12:49,040 views: Logged out user, IP: 127.0.0.1
+INFO 2025-02-25 14:12:49,046 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:36:31,975 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-25 14:36:32,670 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:09:45,519 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:09:48,540 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-26 14:09:52,682 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-26 14:09:55,708 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-02-26 14:09:55,750 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:10:14,909 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:10:25,189 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:11:18,295 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:12:43,932 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:13:05,813 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 14:13:20,375 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 14:13:20,381 views: Added Book: jkdjaskjd by asndkaskd, IP: 127.0.0.1
+INFO 2025-02-26 14:13:20,392 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:13:25,054 views: Started Deleting Book წყალში by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-26 14:13:25,054 views: Deleted Book წყალში by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-26 14:13:25,066 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:13:33,123 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:15:59,954 views: Started Deleting Book ნურასდროს დაბრუნდები by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:15:59,954 views: Deleted Book ნურასდროს დაბრუნდები by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:15:59,966 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:20:41,631 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:21:00,682 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:23:23,061 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:23:43,623 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:24:18,086 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:25:16,439 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:25:58,521 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:27:24,174 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:27:46,453 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:27:50,288 views: Started Deleting Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:28:38,692 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:28:41,992 views: Started Deleting Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:28:54,143 views: Started Deleting Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:30:03,627 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:30:09,824 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:31:02,717 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:31:04,459 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:33:10,185 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:37:25,787 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:39:31,557 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:40:38,656 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:40:54,318 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:41:25,158 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:43:01,656 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:43:04,257 views: Started Deleting Book jkdjaskjd by asndkaskd, IP: 127.0.0.1
+INFO 2025-02-26 14:43:04,273 views: Deleted Book jkdjaskjd by asndkaskd, IP: 127.0.0.1
+INFO 2025-02-26 14:43:04,275 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:43:44,460 views: Viewing Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:43:47,219 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:43:49,466 views: Viewing Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:43:50,773 views: Started Editing Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:43:55,004 views: Started Editing Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:43:55,025 views: Edited Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:43:55,128 views: Viewing Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:44:43,929 views: Viewing Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:46:10,838 views: Viewing Book ღამის სკოლა by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 14:46:16,609 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:46:18,863 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 14:46:25,046 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 14:46:25,052 views: Added Book: asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 14:46:25,065 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:46:27,918 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 14:46:45,952 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 14:47:04,533 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 14:47:07,673 views: Started Deleting Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 14:57:48,719 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:57:54,288 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 14:57:59,136 views: Started Deleting Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 14:58:46,294 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 14:58:51,550 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 14:58:54,354 views: Started Deleting Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:01:48,355 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:02:01,851 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:02:04,890 views: Started Deleting Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:04:18,491 views: Started Deleting Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:04:20,960 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:05:20,968 views: Viewing Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:05:23,676 views: Started Deleting Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:05:23,676 views: Deleted Book asdasdasd by dasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:05:23,691 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:06:31,768 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:06:33,466 views: Viewing Book მკვლელობა გოლფის მოედანზე by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 15:06:37,393 views: Started Deleting Book მკვლელობა გოლფის მოედანზე by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 15:18:33,525 views: Viewing Book მკვლელობა გოლფის მოედანზე by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 15:18:38,555 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:18:41,162 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:18:47,955 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:18:47,977 views: Added Book: dasdasdasd by asdasdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:18:47,991 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:18:52,220 views: Viewing Book dasdasdasd by asdasdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:19:31,678 views: Viewing Book dasdasdasd by asdasdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:19:56,554 views: Viewing Book dasdasdasd by asdasdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:20:39,471 views: Viewing Book dasdasdasd by asdasdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:22:15,576 views: Viewing Book dasdasdasd by asdasdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:22:20,623 views: Started Deleting Book dasdasdasd by asdasdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:22:20,630 views: Deleted Book dasdasdasd by asdasdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:22:20,638 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:22:43,968 views: Viewing Book მკვლელობა გოლფის მოედანზე by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 15:22:57,942 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:23:07,080 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:23:15,914 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:23:15,920 views: Added Book: asdasdasdasdasd by asdasdasd, IP: 127.0.0.1
+INFO 2025-02-26 15:23:15,936 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:27:18,048 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:35:07,831 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:35:17,720 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:37:13,743 views: Viewing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 15:37:17,704 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:37:21,428 views: Viewing Book ერკიულ პუაროს ქრისტეშობა by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 15:38:02,292 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:39:06,811 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:39:10,146 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:39:17,369 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:39:22,079 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:39:24,781 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:40:49,011 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:41:29,401 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:41:49,272 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:42:49,790 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:43:31,406 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:43:46,219 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:44:08,186 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:44:38,087 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:44:43,291 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:44:45,921 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:44:47,946 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:44:53,057 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:45:04,594 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:45:04,603 views: Added Book: New Title by New Author, IP: 127.0.0.1
+INFO 2025-02-26 15:45:04,614 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:10,467 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:16,275 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:17,953 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:21,039 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:45:34,184 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:45:34,190 views: Added Book: New Title by New Author, IP: 127.0.0.1
+INFO 2025-02-26 15:45:34,199 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:35,831 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:47,603 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:49,977 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:51,743 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:54,118 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:45:59,373 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:46:05,454 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:47:08,805 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:47:12,844 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:47:15,668 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:47:20,962 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:47:30,083 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:47:33,087 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:48:32,145 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:48:40,154 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:49:49,220 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:50:03,973 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:50:09,757 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:53:29,379 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:54:18,692 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:54:30,361 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:54:56,969 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:56:17,883 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:56:26,060 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:56:26,060 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 15:56:26,154 views: Books found: 15
+INFO 2025-02-26 15:56:31,325 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:56:33,175 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:56:37,835 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:56:37,836 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 15:56:37,922 views: Books found: 15
+INFO 2025-02-26 15:56:51,328 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:56:58,226 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 15:56:58,231 views: Added Book: new by new, IP: 127.0.0.1
+INFO 2025-02-26 15:56:58,238 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:03,624 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:03,626 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 15:57:03,740 views: Books found: 16
+INFO 2025-02-26 15:57:15,425 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:18,898 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:24,389 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:24,391 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 15:57:24,489 views: Books found: 16
+INFO 2025-02-26 15:57:44,248 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:44,248 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 15:57:44,345 views: Books found: 16
+INFO 2025-02-26 15:57:45,565 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:48,932 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:53,361 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:57:53,361 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 15:57:53,454 views: Books found: 16
+INFO 2025-02-26 15:57:58,279 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:58:01,179 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 15:58:01,179 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 15:58:01,280 views: Books found: 16
+INFO 2025-02-26 16:02:15,050 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:02:19,935 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:02:19,935 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:02:20,006 views: Books found: 16
+INFO 2025-02-26 16:02:24,550 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:02:42,839 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:07:51,143 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:07:51,145 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:07:51,204 views: Books found: 16
+INFO 2025-02-26 16:07:57,255 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:08:46,177 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:08:46,177 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:08:46,248 views: Books found: 16
+INFO 2025-02-26 16:08:51,476 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:08:54,949 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:11,999 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:15,328 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:17,481 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:17,481 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:09:17,560 views: Books found: 16
+INFO 2025-02-26 16:09:25,223 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:27,712 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:31,783 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:33,566 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:33,566 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:09:33,654 views: Books found: 16
+INFO 2025-02-26 16:09:39,150 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:39,152 views: Search Author: new?page=2, IP: 127.0.0.1
+INFO 2025-02-26 16:09:39,246 views: Books found: 0
+INFO 2025-02-26 16:09:47,331 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:52,286 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:09:52,286 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:09:52,378 views: Books found: 16
+INFO 2025-02-26 16:10:21,866 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:10:21,868 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:10:21,940 views: Books found: 16
+INFO 2025-02-26 16:10:24,474 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:10:26,959 views: Viewing Book მკვლელობა გოლფის მოედანზე by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 16:10:29,135 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:10:33,507 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:10:38,622 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:10:55,643 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:10:57,925 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:10:57,926 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:10:58,021 views: Books found: 16
+INFO 2025-02-26 16:11:09,295 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:11:09,295 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:11:09,391 views: Books found: 16
+INFO 2025-02-26 16:13:37,450 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:13:37,450 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:13:37,513 views: Books found: 16
+INFO 2025-02-26 16:13:41,775 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:13:41,776 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:13:41,874 views: Books found: 16
+INFO 2025-02-26 16:13:46,482 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:14:20,507 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:14:20,507 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:14:20,677 views: Books found: 16
+INFO 2025-02-26 16:16:09,351 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:16:09,351 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:16:09,414 views: Books found: 16
+INFO 2025-02-26 16:16:14,248 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:16:26,359 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:16:26,359 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:16:26,544 views: Books found: 16
+INFO 2025-02-26 16:17:34,255 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:17:45,710 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:17:45,710 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:17:45,802 views: Books found: 16
+INFO 2025-02-26 16:17:53,016 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:17:53,016 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:17:53,100 views: Books found: 16
+INFO 2025-02-26 16:18:33,453 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:18:35,896 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:18:35,897 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:18:35,966 views: Books found: 16
+INFO 2025-02-26 16:18:37,643 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:20:56,121 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:20:58,596 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:20:58,596 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:20:58,670 views: Books found: 16
+INFO 2025-02-26 16:21:00,239 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:21:05,250 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:21:17,000 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:21:17,000 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:21:17,094 views: Books found: 16
+INFO 2025-02-26 16:21:19,037 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:24:18,534 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:24:21,562 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:24:21,562 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:24:21,655 views: Books found: 16
+INFO 2025-02-26 16:24:23,632 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:14,911 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:19,027 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:19,029 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:28:19,102 views: Books found: 16
+INFO 2025-02-26 16:28:20,997 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:20,997 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:28:21,079 views: Books found: 16
+INFO 2025-02-26 16:28:28,687 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:28,688 views: Search Author: new, IP: 127.0.0.1
+INFO 2025-02-26 16:28:28,769 views: Books found: 16
+INFO 2025-02-26 16:28:32,702 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:35,437 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:35,437 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:28:35,519 views: Books found: 16
+INFO 2025-02-26 16:28:37,628 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:37,628 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:28:37,714 views: Books found: 16
+INFO 2025-02-26 16:28:42,054 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:42,054 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:28:42,148 views: Books found: 16
+INFO 2025-02-26 16:28:44,035 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:44,036 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:28:44,131 views: Books found: 16
+INFO 2025-02-26 16:28:45,470 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:28:45,470 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:28:45,560 views: Books found: 16
+INFO 2025-02-26 16:29:01,664 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:01,664 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:01,738 views: Books found: 16
+INFO 2025-02-26 16:29:04,783 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:04,783 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:04,847 views: Books found: 16
+INFO 2025-02-26 16:29:07,353 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:07,353 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:07,423 views: Books found: 16
+INFO 2025-02-26 16:29:09,566 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:09,567 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:09,658 views: Books found: 16
+INFO 2025-02-26 16:29:11,195 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:11,195 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:11,276 views: Books found: 16
+INFO 2025-02-26 16:29:13,321 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:13,323 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:13,408 views: Books found: 16
+INFO 2025-02-26 16:29:15,063 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:15,063 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:15,172 views: Books found: 16
+INFO 2025-02-26 16:29:17,931 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:17,932 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:18,025 views: Books found: 16
+INFO 2025-02-26 16:29:20,608 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:20,608 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:20,722 views: Books found: 16
+INFO 2025-02-26 16:29:22,854 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:22,854 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:22,950 views: Books found: 16
+INFO 2025-02-26 16:29:32,077 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:29:32,077 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:29:32,189 views: Books found: 16
+INFO 2025-02-26 16:31:24,969 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:31:24,969 views: Search Title: new, IP: 127.0.0.1
+INFO 2025-02-26 16:31:25,033 views: Books found: 16
+INFO 2025-02-26 16:31:30,471 views: Started Deleting Book new by new, IP: 127.0.0.1
+INFO 2025-02-26 16:31:30,478 views: Deleted Book new by new, IP: 127.0.0.1
+INFO 2025-02-26 16:31:30,484 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:31:33,919 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:32:06,948 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:33:03,833 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:33:06,239 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:33:36,831 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:34:17,721 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:34:22,471 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:34:43,974 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:35:35,941 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:35:51,125 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:36:40,632 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:37:40,581 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:38:39,170 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:39:46,124 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:40:21,261 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:40:28,876 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:40:31,470 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:40:57,690 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:41:19,120 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:41:20,445 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:41:57,002 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:42:18,622 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:42:25,909 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:42:31,597 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:42:47,682 views: Viewing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:42:50,247 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:45:52,435 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:45:52,680 views: Edited Book წყალში by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-26 16:45:52,748 views: Viewing Book წყალში by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-26 16:45:56,634 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:46:02,413 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:46:12,968 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:47:10,393 views: Viewing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:47:12,617 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:47:21,751 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:47:27,198 views: Viewing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:47:28,818 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:48:33,678 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:48:33,706 views: Edited Book ნურასდროს დაბრუნდები by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 16:48:33,795 views: Viewing Book ნურასდროს დაბრუნდები by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-02-26 16:48:38,045 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:48:42,775 views: Viewing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:48:50,681 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:48:58,844 views: Viewing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:49:00,719 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:50:19,894 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:50:19,922 views: Edited Book სპილოებს ყველაფერი ახსოვთ by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 16:50:20,028 views: Viewing Book სპილოებს ყველაფერი ახსოვთ by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 16:50:23,951 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:50:28,836 views: Viewing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:50:30,520 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:52:45,543 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:52:45,564 views: Edited Book ჰიკორი დიკორი დოკ by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 16:52:45,681 views: Viewing Book ჰიკორი დიკორი დოკ by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 16:52:49,651 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:52:52,458 views: Viewing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:52:54,511 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:54:21,845 views: Started Editing Book New Book by New Author, IP: 127.0.0.1
+INFO 2025-02-26 16:54:21,865 views: Edited Book მკვლელობები ანბანის მიხედვით by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 16:54:21,963 views: Viewing Book მკვლელობები ანბანის მიხედვით by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 16:54:24,054 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 16:55:36,288 views: Viewing Book მკვლელობები ანბანის მიხედვით by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-26 16:55:38,376 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:02:26,697 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:02:48,485 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:02:55,209 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:04:03,215 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:04:04,828 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:08:04,793 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:08:15,594 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:13:24,347 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:13:25,875 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:15:29,194 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:15:44,294 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:15:54,308 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:17:52,928 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:18:27,366 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:18:35,320 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:18:45,311 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:19:03,389 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:19:22,369 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:19:53,958 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:19:55,517 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:20:09,673 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:20:18,707 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:20:27,527 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:22:18,141 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:22:48,675 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:22:52,231 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:23:12,493 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:23:13,975 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:23:15,911 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:23:28,381 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:24:07,295 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:24:36,317 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:25:50,482 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:25:52,650 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:26:19,957 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:26:30,007 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:26:37,890 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:29:26,511 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:29:31,472 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:29:37,455 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:29:40,090 views: Viewing Book New by New, IP: 127.0.0.1
+INFO 2025-02-26 17:29:42,417 views: Started Editing Book New by New, IP: 127.0.0.1
+INFO 2025-02-26 17:29:45,977 views: Started Editing Book New by New, IP: 127.0.0.1
+INFO 2025-02-26 17:29:45,986 views: Edited Book New by New, IP: 127.0.0.1
+INFO 2025-02-26 17:29:46,075 views: Viewing Book New by New, IP: 127.0.0.1
+INFO 2025-02-26 17:31:37,411 views: Viewing Book New by New, IP: 127.0.0.1
+INFO 2025-02-26 17:32:55,390 views: Viewing Book "New" by New, IP: 127.0.0.1
+INFO 2025-02-26 17:33:12,568 views: Started Editing Book "New" by New, IP: 127.0.0.1
+INFO 2025-02-26 17:33:15,983 views: Started Editing Book "New" by New, IP: 127.0.0.1
+INFO 2025-02-26 17:33:15,988 views: Edited Book "New" by New, IP: 127.0.0.1
+INFO 2025-02-26 17:33:16,072 views: Viewing Book "New" by New, IP: 127.0.0.1
+INFO 2025-02-26 17:33:25,889 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:33:31,181 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:33:35,164 views: Started Deleting Book New Title by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:33:35,166 views: Deleted Book New Title by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:33:35,173 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:34:28,027 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:34:48,206 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:34:53,523 views: Started Deleting Book "New" by New, IP: 127.0.0.1
+INFO 2025-02-26 17:34:53,526 views: Deleted Book New by New, IP: 127.0.0.1
+INFO 2025-02-26 17:34:53,532 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:35:36,883 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:35:39,946 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 17:35:47,961 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 17:35:47,974 views: Added Book: jgjkhgkh by hkhkhjk, IP: 127.0.0.1
+INFO 2025-02-26 17:35:47,989 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:35:52,860 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:35:59,147 views: Started Deleting Book "jgjkhgkh" by hkhkhjk, IP: 127.0.0.1
+INFO 2025-02-26 17:35:59,150 views: Deleted Book "jgjkhgkh" by hkhkhjk, IP: 127.0.0.1
+INFO 2025-02-26 17:35:59,158 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:37:07,333 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:37:43,491 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:37:46,799 views: Viewing Book "New Title" by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:37:49,645 views: Started Editing Book "New Title" by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:37:53,286 views: Started Editing Book "New Title" by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:37:53,292 views: Edited Book "New Title" by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:37:53,454 views: Viewing Book "New Title" by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:37:59,150 views: Started Deleting Book "New Title" by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:37:59,158 views: Deleted Book "New Title" by New Author, IP: 127.0.0.1
+INFO 2025-02-26 17:37:59,165 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:38:01,655 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 17:38:06,923 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:19:25,135 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:20:28,177 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:23:15,101 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:24:05,100 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:24:08,233 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:24:48,820 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:25:00,995 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:25:13,805 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:26:50,353 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:27:13,090 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:29:21,802 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:29:50,545 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:29:59,936 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:33:15,881 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:34:55,202 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:35:16,442 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:35:31,233 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:36:51,849 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:36:59,869 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:37:09,510 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:37:29,804 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:37:52,377 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:38:03,788 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:38:36,406 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:39:02,579 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:39:27,028 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:40:31,511 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:41:25,657 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:41:45,706 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:42:09,699 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:42:22,090 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:43:18,490 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:44:05,070 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:44:14,625 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:44:26,590 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:45:43,660 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:45:59,701 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:46:12,393 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:46:20,885 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:47:46,540 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:48:45,778 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:48:56,385 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:49:09,422 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:49:18,374 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:51:20,433 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:51:21,230 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:51:29,576 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:51:45,305 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:55:37,177 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:55:40,284 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:56:08,054 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:56:19,268 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:56:27,408 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:56:47,219 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:56:57,108 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:57:30,677 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:58:08,794 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:58:27,217 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:58:37,563 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 19:59:39,051 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:00:21,751 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:00:35,165 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:00:49,155 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:00:50,923 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:01:08,372 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:01:35,642 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:02:40,916 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:02:42,592 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:02:52,789 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:03:12,800 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:03:38,793 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:04:21,245 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:06:48,383 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:06:59,999 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:13:00,385 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:13:20,583 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:15:43,530 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:29:24,069 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:30:01,329 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:30:24,995 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:31:33,673 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:34:32,339 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:34:35,427 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:34:41,945 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:35:00,428 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:39:02,380 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:39:08,072 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:40:54,338 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:40:58,024 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:41:01,882 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:42:09,957 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:42:14,325 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:49:08,752 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:49:08,818 views: Books found: 0
+INFO 2025-02-26 20:49:16,867 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:49:23,868 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:49:23,961 views: Books found: 3
+INFO 2025-02-26 20:49:38,266 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:49:45,207 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:49:45,307 views: Books found: 7
+INFO 2025-02-26 20:55:41,826 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:55:42,001 views: Books found: 7
+INFO 2025-02-26 20:55:48,018 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:55:48,119 views: Books found: 0
+INFO 2025-02-26 20:57:16,352 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:57:16,416 views: Books found: 0
+INFO 2025-02-26 20:58:44,090 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:58:44,154 views: Books found: 0
+INFO 2025-02-26 20:59:00,879 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 20:59:00,950 views: Books found: 0
+INFO 2025-02-26 20:59:07,544 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:01:17,955 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:01:21,941 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:01:22,040 views: Books found: 0
+INFO 2025-02-26 21:01:45,801 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:01:53,229 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:01:53,327 views: Books found: 0
+INFO 2025-02-26 21:03:00,449 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:03:00,513 views: Books found: 0
+INFO 2025-02-26 21:03:41,278 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:03:45,183 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:03:45,283 views: Books found: 0
+INFO 2025-02-26 21:09:07,405 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:09:07,482 views: Books found: 0
+INFO 2025-02-26 21:09:12,884 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:09:32,615 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:09:35,927 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:09:36,004 views: Books found: 0
+INFO 2025-02-26 21:12:37,525 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:12:37,589 views: Books found: 0
+INFO 2025-02-26 21:13:25,591 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:13:25,668 views: Books found: 0
+INFO 2025-02-26 21:13:56,577 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:13:56,640 views: Books found: 0
+INFO 2025-02-26 21:14:19,919 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:14:34,974 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:15:08,083 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:15:12,267 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:15:12,367 views: Books found: 0
+INFO 2025-02-26 21:15:31,731 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:15:31,821 views: Books found: 0
+INFO 2025-02-26 21:15:52,013 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:15:52,077 views: Books found: 0
+INFO 2025-02-26 21:15:56,205 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:15:56,306 views: Books found: 0
+INFO 2025-02-26 21:16:15,768 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:16:15,843 views: Books found: 0
+INFO 2025-02-26 21:16:42,322 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:16:42,393 views: Books found: 0
+INFO 2025-02-26 21:17:36,509 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:17:36,628 views: Books found: 0
+INFO 2025-02-26 21:17:39,106 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:19:28,875 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:19:42,073 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:19:46,395 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:19:46,474 views: Books found: 0
+INFO 2025-02-26 21:19:54,695 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:20:02,539 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:20:02,615 views: Books found: 0
+INFO 2025-02-26 21:20:16,705 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:20:16,777 views: Books found: 0
+INFO 2025-02-26 21:21:12,605 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:21:12,685 views: Books found: 0
+INFO 2025-02-26 21:21:15,921 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:21:33,016 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:24:38,413 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:24:46,610 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:24:46,696 views: Books found: 0
+INFO 2025-02-26 21:26:18,714 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:26:18,818 views: Books found: 0
+INFO 2025-02-26 21:26:21,704 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:27:09,332 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:27:16,267 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:27:16,357 views: Books found: 0
+INFO 2025-02-26 21:27:28,469 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:27:35,361 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:27:35,441 views: Books found: 3
+INFO 2025-02-26 21:27:52,779 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:27:52,842 views: Books found: 3
+INFO 2025-02-26 21:28:06,664 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:28:06,727 views: Books found: 3
+INFO 2025-02-26 21:28:11,864 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:28:17,348 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:28:17,438 views: Books found: 0
+INFO 2025-02-26 21:28:32,486 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:29:16,742 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:29:21,698 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:29:21,784 views: Books found: 0
+INFO 2025-02-26 21:29:26,747 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:31:19,264 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:31:25,898 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:31:25,976 views: Books found: 0
+INFO 2025-02-26 21:32:12,266 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:34:09,541 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:34:13,177 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:34:13,268 views: Books found: 0
+INFO 2025-02-26 21:34:39,380 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:34:39,443 views: Books found: 0
+INFO 2025-02-26 21:34:41,195 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:34:41,275 views: Books found: 0
+INFO 2025-02-26 21:34:42,466 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:34:42,532 views: Books found: 0
+INFO 2025-02-26 21:34:57,306 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:34:57,397 views: Books found: 0
+INFO 2025-02-26 21:35:14,108 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:35:14,187 views: Books found: 0
+INFO 2025-02-26 21:35:17,147 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:35:26,041 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:35:31,630 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:35:43,437 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:35:49,795 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:35:55,852 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:36:03,898 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:36:20,324 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:36:22,877 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:36:52,632 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:38:06,788 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:38:38,344 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:38:40,874 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:38:47,837 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:38:57,467 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:38:57,555 views: Books found: 0
+INFO 2025-02-26 21:39:12,399 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:39:12,481 views: Books found: 7
+INFO 2025-02-26 21:39:20,547 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 21:39:36,322 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 21:39:36,348 views: Added Book: sdasdasd by dasdasdsad, IP: 127.0.0.1
+INFO 2025-02-26 21:39:36,355 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:39:41,285 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 21:39:51,432 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 21:39:51,438 views: Added Book: dasd by asdasd, IP: 127.0.0.1
+INFO 2025-02-26 21:39:51,450 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:39:53,811 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 21:40:04,023 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 21:40:04,042 views: Added Book: asdasd by asdasd, IP: 127.0.0.1
+INFO 2025-02-26 21:40:04,049 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:40:06,541 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 21:40:18,457 views: Started Adding Book, IP: 127.0.0.1
+INFO 2025-02-26 21:40:18,469 views: Added Book: asdasdasd by asdasdsad, IP: 127.0.0.1
+INFO 2025-02-26 21:40:18,477 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:40:22,712 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:40:22,938 views: Books found: 11
+INFO 2025-02-26 21:40:30,888 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:41:32,176 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:44:55,208 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:44:55,287 views: Books found: 11
+INFO 2025-02-26 21:44:59,507 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:44:59,587 views: Books found: 0
+INFO 2025-02-26 21:45:42,554 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:45:47,579 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:45:47,668 views: Books found: 11
+INFO 2025-02-26 21:45:51,722 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:48:33,666 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:48:33,763 views: Books found: 0
+INFO 2025-02-26 21:48:44,946 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:48:51,235 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:48:51,331 views: Books found: 11
+INFO 2025-02-26 21:48:52,373 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:48:58,528 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:48:58,635 views: Books found: 0
+INFO 2025-02-26 21:53:11,908 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:53:12,010 views: Books found: 0
+INFO 2025-02-26 21:53:17,208 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 21:53:17,312 views: Books found: 11
+INFO 2025-02-26 21:53:19,295 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:03:30,072 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:03:30,151 views: Books found: 11
+INFO 2025-02-26 22:03:33,822 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:03:33,923 views: Books found: 11
+INFO 2025-02-26 22:03:46,478 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:03:46,583 views: Books found: 11
+INFO 2025-02-26 22:06:54,983 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:06:55,082 views: Books found: 11
+INFO 2025-02-26 22:06:58,679 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:07:04,647 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:07:04,742 views: Books found: 11
+INFO 2025-02-26 22:07:06,641 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:07:06,731 views: Books found: 11
+INFO 2025-02-26 22:07:42,875 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:07:48,325 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:07:48,405 views: Books found: 0
+INFO 2025-02-26 22:07:52,970 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:07:53,059 views: Books found: 0
+INFO 2025-02-26 22:07:56,077 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:07:56,161 views: Books found: 0
+INFO 2025-02-26 22:07:58,715 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:07:58,812 views: Books found: 11
+INFO 2025-02-26 22:08:02,755 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:08:02,949 views: Books found: 11
+INFO 2025-02-26 22:08:05,112 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:08:05,206 views: Books found: 11
+INFO 2025-02-26 22:08:07,055 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:08:07,145 views: Books found: 11
+INFO 2025-02-26 22:08:08,379 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:08:08,468 views: Books found: 11
+INFO 2025-02-26 22:08:11,419 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:08:11,517 views: Books found: 11
+INFO 2025-02-26 22:08:13,817 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:08:13,922 views: Books found: 11
+INFO 2025-02-26 22:10:13,971 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:13:46,382 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:15:05,796 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:15:07,732 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:16:34,672 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:18:26,060 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:18:26,124 views: Books found: 0
+INFO 2025-02-26 22:19:16,634 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:19:57,006 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:20:23,117 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:20:23,188 views: Books found: 0
+INFO 2025-02-26 22:22:00,033 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:22:00,114 views: Books found: 0
+INFO 2025-02-26 22:23:42,076 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:23:57,964 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:24:20,263 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:24:20,338 views: Books found: 0
+INFO 2025-02-26 22:24:52,176 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:24:52,256 views: Search Genre: სათავგადასავლო/Action, IP: 127.0.0.1
+INFO 2025-02-26 22:24:52,256 views: Books found: 0
+INFO 2025-02-26 22:25:16,531 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:25:16,611 views: Search Genre: სათავგადასავლო/Action, IP: 127.0.0.1
+INFO 2025-02-26 22:25:16,611 views: Books found: 0
+INFO 2025-02-26 22:25:19,534 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:25:28,420 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:25:34,594 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:25:34,674 views: Search Genre: კრიმინალური/Crime, IP: 127.0.0.1
+INFO 2025-02-26 22:25:34,682 views: Books found: 11
+INFO 2025-02-26 22:25:38,922 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:25:39,126 views: Search Genre: კრიმინალური/Crime, IP: 127.0.0.1
+INFO 2025-02-26 22:25:39,132 views: Books found: 11
+INFO 2025-02-26 22:32:05,551 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:32:05,623 views: Search Genre: კრიმინალური/Crime, IP: 127.0.0.1
+INFO 2025-02-26 22:32:05,623 views: Books found: 11
+INFO 2025-02-26 22:32:06,092 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:32:28,874 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:33:50,703 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:34:17,950 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:34:19,412 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:35:23,838 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:41:39,364 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:41:42,965 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:41:43,181 views: Books found: 10
+INFO 2025-02-26 22:41:54,953 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:41:58,163 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:41:58,265 views: Books found: 10
+INFO 2025-02-26 22:42:06,050 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:42:06,158 views: Books found: 0
+INFO 2025-02-26 22:44:47,719 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:44:47,821 views: Books found: 10
+INFO 2025-02-26 22:48:08,475 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:48:08,546 views: Books found: 10
+INFO 2025-02-26 22:48:29,013 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:48:29,091 views: Books found: 10
+INFO 2025-02-26 22:48:41,355 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:48:41,434 views: Books found: 10
+INFO 2025-02-26 22:48:45,147 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:52:15,488 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:52:19,686 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:52:19,807 views: Books found: 10
+INFO 2025-02-26 22:53:02,610 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:53:02,689 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 22:53:02,695 views: Books found: 10
+INFO 2025-02-26 22:53:19,360 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:53:19,453 views: Search Language: English, IP: 127.0.0.1
+INFO 2025-02-26 22:53:19,453 views: Books found: 0
+INFO 2025-02-26 22:54:21,588 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 22:54:21,676 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 22:54:21,681 views: Books found: 10
+INFO 2025-02-26 23:02:47,400 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:02:47,580 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 23:02:47,594 views: Books found: 10
+INFO 2025-02-26 23:19:15,631 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:19:15,749 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 23:19:15,765 views: Books found: 10
+INFO 2025-02-26 23:19:17,147 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:19:22,889 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:19:22,976 views: Search Genre: რომანტიკა/Romance, IP: 127.0.0.1
+INFO 2025-02-26 23:19:22,977 views: Books found: 0
+INFO 2025-02-26 23:19:26,044 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:19:26,139 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 23:19:26,146 views: Books found: 10
+INFO 2025-02-26 23:19:32,750 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:19:32,850 views: Search Genre: კრიმინალური/Crime, IP: 127.0.0.1
+INFO 2025-02-26 23:19:32,857 views: Books found: 11
+INFO 2025-02-26 23:19:34,569 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:19:49,570 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:19:49,654 views: Search Genre: კრიმინალური/Crime, IP: 127.0.0.1
+INFO 2025-02-26 23:19:49,660 views: Books found: 11
+INFO 2025-02-26 23:19:51,574 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:20:20,117 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:20:22,352 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:20:22,426 views: Search Genre: კრიმინალური/Crime, IP: 127.0.0.1
+INFO 2025-02-26 23:20:22,426 views: Books found: 11
+INFO 2025-02-26 23:20:29,347 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:20:29,465 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 23:20:29,468 views: Books found: 10
+INFO 2025-02-26 23:21:06,307 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:21:06,376 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 23:21:06,381 views: Books found: 10
+INFO 2025-02-26 23:43:45,575 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:43:45,654 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 23:43:45,670 views: Books found: 10
+INFO 2025-02-26 23:43:50,635 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:48:54,678 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:48:54,770 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-26 23:48:54,776 views: Books found: 10
+INFO 2025-02-26 23:49:02,474 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:49:02,540 views: Search Language: English, IP: 127.0.0.1
+INFO 2025-02-26 23:49:02,547 views: Books found: 0
+INFO 2025-02-26 23:52:36,730 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-26 23:52:36,826 views: Search Language: English, IP: 127.0.0.1
+INFO 2025-02-26 23:52:36,826 views: Books found: 0
+INFO 2025-02-27 00:02:38,105 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 00:02:38,315 views: Search Language: English, IP: 127.0.0.1
+INFO 2025-02-27 00:02:38,316 views: Books found: 0
+INFO 2025-02-27 00:02:42,977 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 00:02:45,709 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 00:02:45,811 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 00:02:45,823 views: Books found: 10
+INFO 2025-02-27 00:03:10,745 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 00:03:10,840 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 00:03:10,840 views: Books found: 10
+INFO 2025-02-27 00:03:15,378 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 00:03:15,478 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 00:03:15,479 views: Books found: 10
+INFO 2025-02-27 00:04:16,209 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 00:04:16,292 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 00:04:16,298 views: Books found: 10
+INFO 2025-02-27 00:04:20,119 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 00:04:20,202 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 00:04:20,202 views: Books found: 10
+INFO 2025-02-27 13:32:20,881 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:32:26,904 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:32:32,690 views: Viewing Book "New Book" by New Author, IP: 127.0.0.1
+INFO 2025-02-27 13:32:35,304 views: Started Editing Book "New Book" by New Author, IP: 127.0.0.1
+INFO 2025-02-27 13:32:45,534 views: Started Editing Book "New Book" by New Author, IP: 127.0.0.1
+INFO 2025-02-27 13:32:45,561 views: Edited Book "New Book" by New Author, IP: 127.0.0.1
+INFO 2025-02-27 13:32:45,706 views: Viewing Book "New Book" by New Author, IP: 127.0.0.1
+INFO 2025-02-27 13:32:48,198 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:32:54,183 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:32:54,299 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:32:54,299 views: Books found: 11
+INFO 2025-02-27 13:32:58,468 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:32:58,599 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:32:58,613 views: Books found: 11
+INFO 2025-02-27 13:33:35,048 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:33:35,139 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:33:35,139 views: Books found: 11
+INFO 2025-02-27 13:33:54,087 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:33:54,225 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:33:54,236 views: Books found: 11
+INFO 2025-02-27 13:33:58,128 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:33:58,273 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:33:58,291 views: Books found: 11
+INFO 2025-02-27 13:34:00,676 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:34:09,860 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:34:09,975 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:34:09,982 views: Books found: 11
+INFO 2025-02-27 13:38:06,493 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:38:06,595 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:38:06,601 views: Books found: 11
+INFO 2025-02-27 13:39:37,387 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:39:37,496 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:39:37,501 views: Books found: 11
+INFO 2025-02-27 13:40:07,529 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:40:07,639 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:40:07,644 views: Books found: 11
+INFO 2025-02-27 13:40:23,970 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:40:24,065 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:40:24,081 views: Books found: 11
+INFO 2025-02-27 13:40:57,207 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:40:57,293 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:40:57,297 views: Books found: 11
+INFO 2025-02-27 13:41:20,125 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:41:20,250 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:41:20,257 views: Books found: 11
+INFO 2025-02-27 13:41:33,141 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:41:33,236 views: Search Genre: სათავგადასავლო/Action, IP: 127.0.0.1
+INFO 2025-02-27 13:41:33,242 views: Books found: 0
+INFO 2025-02-27 13:41:42,889 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 13:41:42,969 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 13:41:42,976 views: Books found: 11
+INFO 2025-02-27 14:08:59,802 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:12:39,177 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:13:14,248 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:13:17,450 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:13:19,924 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:13:44,850 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:13:45,761 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:13:54,651 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:13:57,131 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:14:22,016 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:29:15,593 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:29:44,851 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:30:00,294 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:30:35,587 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:30:47,255 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:30:57,572 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:31:10,290 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-02-27 14:31:10,305 views: Logged out user, IP: 127.0.0.1
+INFO 2025-02-27 14:31:10,314 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:31:49,588 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:32:00,055 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:32:13,823 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:32:22,752 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:34:53,547 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:36:37,119 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:36:56,322 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:37:14,960 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:50:15,459 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:50:17,434 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:50:18,923 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:50:19,971 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:50:21,786 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:51:38,881 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:51:41,435 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:51:42,667 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:51:55,056 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:52:07,494 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:52:10,041 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:52:15,759 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:57:01,203 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:57:03,292 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:57:06,375 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 14:58:01,145 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:00:52,748 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:00:55,151 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:01:01,820 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:01:24,249 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:01:58,666 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:02:36,338 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:02:42,592 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:03:21,026 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:03:28,212 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:03:34,989 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:03:41,830 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:03:59,780 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:04:07,166 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:04:12,162 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:04:19,754 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:04:24,368 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:04:57,885 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:18,858 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:21,707 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:22,956 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:24,085 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:25,557 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:26,496 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:27,407 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:28,219 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:29,510 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:11:31,707 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:10,172 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:11,949 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:12,854 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:13,813 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:14,933 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:17,199 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:19,335 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:20,705 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:37,336 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:38,244 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:39,650 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:40,563 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:41,598 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:13:42,457 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:15:41,678 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:15:51,994 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:15:54,255 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:15:55,924 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:18:29,614 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:18:41,484 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:18:46,088 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:21:56,792 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:22:03,033 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:22:07,314 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:23:19,386 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:23:21,418 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:23:24,520 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:23:26,070 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:23:26,235 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:23:27,631 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:23:29,775 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:24:57,079 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:25:18,475 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:28:49,516 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:32:16,246 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:33:29,871 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:35:01,491 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:35:03,339 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 15:35:05,355 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:39:30,688 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:41:55,479 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:03,542 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:05,767 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:06,965 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:09,891 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:11,730 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:52,345 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:54,041 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:55,937 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:58,069 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:45:59,593 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:01,144 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:02,472 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:03,680 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:06,309 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:08,198 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:17,455 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:35,154 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:38,685 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:46:58,705 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:00,328 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:01,984 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:05,065 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:06,580 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:08,327 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:10,513 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:47:14,456 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:15,782 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:18,249 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:47:21,378 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:47:24,182 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 15:47:30,051 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:31,716 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 15:47:33,430 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:35,076 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:37,057 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:47:38,709 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 15:47:40,704 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:47,560 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:47:52,517 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:02,026 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:03,113 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:04,733 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:06,322 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:08,853 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:12,327 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:14,364 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:48:20,977 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:48:29,056 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 15:48:30,581 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:34,346 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:36,532 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:39,943 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:48:42,378 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:49:02,384 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:49:05,115 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:49:07,853 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:49:44,898 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:49:48,204 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:49:51,513 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:49:53,091 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:50:37,436 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:50:39,258 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:50:41,164 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 15:50:46,053 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:50:51,275 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:50:55,854 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:50:58,440 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:51:01,319 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:51:01,396 views: Search Language: English, IP: 127.0.0.1
+INFO 2025-02-27 15:51:01,403 views: Books found: 0
+INFO 2025-02-27 15:51:03,008 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:51:06,326 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:51:08,914 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:51:08,996 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 15:51:09,011 views: Books found: 11
+INFO 2025-02-27 15:51:49,102 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:52:21,072 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:52:24,703 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:52:26,453 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:52:28,412 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:52:30,730 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:52:32,787 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:52:38,851 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:53:15,686 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:18,332 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:20,607 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:22,641 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:25,031 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:27,245 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:29,067 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:30,501 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:32,651 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:33,939 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:36,012 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 15:58:38,388 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:40,590 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:43,405 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 15:58:45,550 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:49,139 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:49,214 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 15:58:49,220 views: Books found: 11
+INFO 2025-02-27 15:58:51,815 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:58:51,920 views: Search Genre: სამეცნიერო ფანტასტიკა/Sci-Fi, IP: 127.0.0.1
+INFO 2025-02-27 15:58:51,920 views: Books found: 0
+INFO 2025-02-27 15:59:23,270 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:59:25,384 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 15:59:27,185 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:04:40,348 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:04:42,214 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:04:43,719 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 16:04:46,830 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:04:48,234 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:04:50,694 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:04:52,610 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:04:54,444 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:04:57,172 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 16:04:59,135 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:05:02,622 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:05:04,684 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:05:43,729 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:05:45,277 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:05:46,415 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 16:05:47,587 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:05:48,799 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:05:53,660 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:06:01,493 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:06:02,930 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-02-27 16:06:02,956 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:06:09,029 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-02-27 16:06:09,030 views: Logged out user, IP: 127.0.0.1
+INFO 2025-02-27 16:06:09,053 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:06:11,965 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:06:14,450 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:07:38,467 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:07:40,260 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:07:45,094 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:07:49,050 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-02-27 16:07:49,085 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:07:53,902 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-02-27 16:07:53,975 views: Logged out user, IP: 127.0.0.1
+INFO 2025-02-27 16:12:16,043 views: Logging out user 'AnonymousUser', IP: 127.0.0.1
+INFO 2025-02-27 16:12:16,045 views: Logged out user, IP: 127.0.0.1
+INFO 2025-02-27 16:12:16,063 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:12:18,714 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:12:20,564 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:12:22,881 views: Viewing Book "ერკიულ პუაროს ქრისტეშობა" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-27 16:12:26,817 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:12:28,507 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:12:31,130 views: Viewing Book "სპილოებს ყველაფერი ახსოვთ" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-27 16:12:34,729 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:12:36,592 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:12:39,002 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 16:12:40,306 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:12:45,827 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 16:12:48,819 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-02-27 16:12:48,832 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:12:52,943 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:00,055 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:13:04,021 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:06,495 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:08,331 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:13:10,610 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:13:12,877 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:15,121 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:16,546 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:17,513 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:18,453 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:20,134 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:13:24,197 views: Viewing Book "ჰიკორი დიკორი დოკ" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:27,699 views: Started Editing Book "ჰიკორი დიკორი დოკ" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:29,872 views: Started Editing Book "ჰიკორი დიკორი დოკ" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:31,105 views: Started Editing Book "ჰიკორი დიკორი დოკ" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:32,282 views: Started Editing Book "ჰიკორი დიკორი დოკ" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-27 16:13:34,335 views: Started Editing Book "ჰიკორი დიკორი დოკ" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-02-27 16:19:18,451 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:19:21,168 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-02-27 16:19:21,169 views: Logged out user, IP: 127.0.0.1
+INFO 2025-02-27 16:19:21,186 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:20:27,607 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:20:50,709 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:20:52,271 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:20:53,306 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:20:57,790 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:20:57,886 views: Search Language: ქართული, IP: 127.0.0.1
+INFO 2025-02-27 16:20:57,891 views: Books found: 11
+INFO 2025-02-27 16:20:59,479 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 16:59:28,553 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:01:25,598 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:01:27,667 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:01:29,295 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:01:30,552 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:01:31,811 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:01:32,876 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:01:34,042 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:01:35,018 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:05:59,205 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:06:01,172 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:06:02,388 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:06:03,450 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:07:46,259 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:12:19,162 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:19:50,781 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:19:56,781 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:20:01,870 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:20:03,905 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:20:04,776 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:21:10,694 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:21:12,301 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:22:03,311 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:22:04,739 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:24:22,790 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:27:44,509 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:29:33,985 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:30:33,724 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:31:30,298 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:33:18,133 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:35:33,194 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:36:09,972 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:38:44,164 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:39:09,927 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:39:27,698 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:42:13,142 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:43:45,414 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:45:18,543 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:45:46,967 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:46:40,426 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:46:58,012 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:47:00,951 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:49:35,302 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:50:10,373 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:50:11,847 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:50:31,475 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:50:32,899 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:50:41,945 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:50:48,330 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 17:51:00,552 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:51:13,927 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:52:48,882 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:53:04,005 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:53:13,430 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:58:10,597 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:58:58,971 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:59:10,142 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:59:45,710 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:59:47,873 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 17:59:52,235 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 17:59:53,792 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 18:00:03,863 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:02:30,739 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:02:33,001 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:03:47,163 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:04:38,094 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:05:06,451 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:05:32,268 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:05:51,705 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:06:11,790 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:06:43,129 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:06:51,227 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:07:00,114 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:07:01,767 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:07:06,138 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:07:07,512 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:10:30,185 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:10:38,512 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:12:03,851 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:18:37,478 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:25:56,304 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:26:15,944 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:26:26,508 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:26:53,239 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:27:44,744 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:28:17,311 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:35:28,906 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:37:11,530 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:37:29,201 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:37:52,596 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:40:55,139 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:41:31,318 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:41:40,466 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:42:44,520 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 18:42:55,067 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 18:43:22,281 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 18:43:25,733 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:44:54,321 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:46:36,715 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:47:16,551 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:49:26,599 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:49:44,932 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:50:02,543 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:50:16,402 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:50:18,643 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:50:41,576 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:52:24,525 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:52:33,103 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:52:57,837 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:52:59,248 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:53:23,318 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:55:12,452 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:56:34,314 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:57:12,787 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:57:40,128 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:58:10,507 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:58:17,361 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:58:23,238 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:58:51,959 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:59:21,288 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 18:59:25,415 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:01:55,116 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:02:39,616 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:02:50,989 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:02:53,041 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:02:54,423 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:02:55,608 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:03:24,701 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:03:26,410 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:06:25,196 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:07:02,718 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:07:06,295 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:07:07,140 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:07:38,909 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:08:58,181 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:09:09,535 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:09:22,782 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:09:24,446 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:09:36,731 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:09:37,656 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:09:44,748 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:11:07,214 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:11:29,789 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:11:47,227 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:25:32,138 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:25:49,313 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:27:15,173 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:27:23,983 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:28:11,726 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:28:25,224 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:30:29,264 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:31:20,218 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:32:56,486 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:33:15,517 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:33:26,829 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:33:37,391 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:33:50,860 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:33:53,488 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:34:04,609 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:34:07,103 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:34:16,190 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:34:23,362 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:34:32,892 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:41:19,177 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:41:33,432 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:42:32,843 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:47:12,903 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:47:19,762 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:47:52,461 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:48:05,333 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:48:22,758 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:48:23,902 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:48:38,404 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:49:21,878 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:49:34,203 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:49:41,897 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:49:53,443 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:50:26,264 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:50:41,294 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:51:40,329 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:51:41,989 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:51:56,605 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:51:57,881 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:51:59,036 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:52:16,365 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:52:17,574 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:52:18,576 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:52:42,753 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:52:53,486 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:53:04,316 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:53:11,532 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:53:39,668 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:54:52,600 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:55:00,090 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:56:03,474 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:56:05,059 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:57:01,131 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:57:17,720 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:57:47,352 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:58:42,431 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:59:02,429 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:59:14,297 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 19:59:37,147 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 20:00:04,181 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 20:44:42,809 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 20:45:44,458 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 21:37:32,804 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 21:39:05,777 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 21:43:42,072 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 21:43:44,551 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 21:43:50,661 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 21:43:56,465 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 21:46:35,281 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 21:46:36,660 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:08:00,446 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:08:22,352 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:08:23,545 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:09:27,419 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:09:29,015 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:10:20,624 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:11:27,099 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:11:29,723 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:11:50,504 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:13:15,993 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:13:26,772 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:13:44,828 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:13:45,899 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:14:26,145 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:15:00,693 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:15:01,845 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:16:32,116 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:16:42,073 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:16:45,180 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:17:43,126 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:17:44,872 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:21:25,514 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:21:26,848 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:22:01,788 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:22:03,647 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:22:04,527 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:22:05,823 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:22:08,235 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:22:12,464 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:35:09,143 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:35:15,798 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:35:19,611 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:35:24,770 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:35:33,687 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:35:35,341 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:36:05,909 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:36:44,394 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:36:47,877 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:37:08,850 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:37:51,603 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:38:01,544 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:38:23,049 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:38:41,338 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:39:01,205 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:39:33,724 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:39:48,722 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:39:50,498 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:39:52,405 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:40:24,531 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:40:58,630 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:41:59,079 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:01,060 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:02,382 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:04,983 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:06,153 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:35,048 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:37,438 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:39,742 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:41,076 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:43,324 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:45,724 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:42:48,546 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:02,387 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:03,607 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:28,373 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:34,774 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:37,388 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:38,724 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:41,753 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:43,658 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:55,397 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:43:58,955 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:00,278 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:01,389 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:03,747 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:05,791 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:06,913 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:09,246 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:10,494 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:13,046 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:14,338 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:15,925 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:44:16,692 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:45:27,859 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:45:30,258 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:45:31,952 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:45:33,053 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:45:35,084 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:45:55,264 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:47:03,393 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:47:14,899 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:47:34,279 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:48:21,668 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:48:25,461 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:48:54,816 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 22:49:07,803 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:49:24,464 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:50:39,481 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:50:40,739 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:50:42,328 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 22:56:08,557 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 23:04:21,570 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:04:39,434 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:04:41,077 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:05:31,050 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:07:15,205 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:07:26,947 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:07:29,586 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:07:37,294 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:07:57,970 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:08:30,801 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:08:46,692 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:09:12,483 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:09:28,470 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:10:20,634 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:10:22,830 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 23:10:23,755 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-02-27 23:10:24,917 views: Started Login, IP: 127.0.0.1
+INFO 2025-02-27 23:11:12,306 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:11:24,950 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:11:42,486 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:11:56,436 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:12:14,785 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:12:33,702 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:13:18,284 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:13:39,664 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:14:15,318 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:17:30,743 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:18:42,871 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:19:45,285 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:20:11,329 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:20:24,973 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:20:48,156 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:21:05,910 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:23:22,759 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:23:31,982 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:23:50,494 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:24:10,897 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:25:40,848 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:26:11,930 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:26:26,841 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:26:40,133 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:26:53,949 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:27:54,046 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:28:08,690 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:28:26,600 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:28:35,632 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:28:37,133 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:30:53,545 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:31:00,018 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:31:05,560 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:31:34,889 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:33:33,924 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:34:05,372 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:34:28,956 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:39:34,865 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:39:44,383 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:39:46,524 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:44:19,383 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:44:27,992 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:44:30,973 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:44:31,455 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:44:32,551 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:47:54,405 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:47:59,285 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:48:02,957 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:49:21,823 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:49:23,403 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:49:28,115 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:49:43,572 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:49:47,067 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:49:50,877 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:50:45,502 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:50:49,919 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:53:00,306 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:53:40,420 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:53:48,063 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:54:59,310 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-27 23:56:03,245 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:01:53,281 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:02:16,753 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:02:20,579 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:02:30,969 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:02:35,827 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:09:55,901 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:10:47,477 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:14:33,867 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:16:26,602 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:16:31,711 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:17:03,987 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:17:07,690 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:17:11,960 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:20:20,763 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:20:28,724 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:22:35,017 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:22:40,737 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-02-28 00:23:43,053 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-01 20:23:06,973 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-01 22:56:51,469 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-01 22:56:53,306 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-01 22:56:55,807 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 21:49:09,166 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 21:49:56,722 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 21:50:04,931 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 21:58:30,523 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 21:58:33,306 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 21:58:38,504 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 21:58:41,336 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 21:58:41,352 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 21:58:47,102 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 21:58:52,337 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:01:03,829 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:02:01,831 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:02:42,776 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:02:52,731 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:02:57,229 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:03:00,592 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:04:53,087 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:06:59,914 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:12:31,162 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:12:35,092 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:12:38,593 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:12:41,567 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:13:34,900 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:14:25,935 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:14:31,387 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:14:33,964 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:14:37,022 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:14:41,946 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 22:14:41,954 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-03 22:14:41,998 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:14:44,107 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:14:46,910 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:16:15,945 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:16:18,946 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:16:22,000 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:16:26,696 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 22:16:33,660 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 22:16:38,812 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 22:16:38,845 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:16:45,667 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:16:47,354 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:19:47,150 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:19:59,328 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:20:07,247 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:20:37,276 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:20:42,203 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 22:20:42,207 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-03 22:20:42,216 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:20:46,779 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:20:48,648 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 22:20:53,825 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 22:20:57,046 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 22:20:57,065 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:21:04,263 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:21:08,023 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:21:35,193 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:21:37,287 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:21:40,538 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:23:11,154 views: Viewing Book "ნურასდროს დაბრუნდები" by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-03-03 22:23:12,974 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:23:16,549 views: Viewing Book "ღამის სკოლა" by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-03-03 22:23:23,183 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:24:18,690 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:37:28,228 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:37:30,288 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:38:13,504 views: Viewing Book "იდუმალებით მოცული საქმე სთაილზში / ფარდა: პუაროს უკანასკნელი საქმე" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-03-03 22:38:16,624 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:49:11,214 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:49:51,222 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:49:53,471 views: Viewing Book "წყალში" by პოლა ჰოკინსი, IP: 127.0.0.1
+INFO 2025-03-03 22:49:58,290 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 22:51:39,681 views: Viewing Book "იდუმალებით მოცული საქმე სთაილზში / ფარდა: პუაროს უკანასკნელი საქმე" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-03-03 22:51:44,835 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:01:37,099 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:01:45,821 views: Viewing Book "ერკიულ პუაროს ქრისტეშობა" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-03-03 23:01:55,771 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:02:01,877 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 23:02:01,877 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-03 23:02:01,893 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:02:55,576 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:02:57,764 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 23:02:57,771 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-03 23:02:57,778 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:03:01,329 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 23:03:05,845 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 23:03:09,042 views: Logged in user 'asdasd', IP: 127.0.0.1
+INFO 2025-03-03 23:03:09,053 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:03:46,242 views: Viewing Book "ერკიულ პუაროს ქრისტეშობა" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-03-03 23:03:57,593 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:04:25,728 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:04:30,016 views: Viewing Book "ერკიულ პუაროს ქრისტეშობა" by აგათა კრისტი, IP: 127.0.0.1
+INFO 2025-03-03 23:04:34,162 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:13:15,671 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:13:27,579 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:33:18,595 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 23:33:18,611 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-03 23:33:18,619 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:34:45,271 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:34:48,055 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 23:34:53,039 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 23:34:56,423 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 23:34:56,444 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:35:13,088 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:35:38,032 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:35:56,808 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:36:15,281 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:36:40,783 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:37:46,055 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:38:36,742 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:38:52,666 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:39:06,698 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:39:22,552 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:39:23,997 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:39:37,413 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:40:06,714 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:40:38,889 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:40:58,258 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:41:11,930 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:42:17,273 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:42:37,816 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:43:27,788 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:44:01,192 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:44:16,868 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:44:40,875 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:44:50,149 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:45:05,858 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:45:22,152 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:45:32,637 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:45:46,944 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:46:03,066 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:46:08,725 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:46:49,217 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:47:41,837 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:47:45,710 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 23:47:45,714 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-03 23:47:45,725 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-03 23:47:47,845 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 23:47:53,730 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-03 23:47:57,177 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-03 23:47:57,188 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:07:09,790 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:07:14,057 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 00:07:14,081 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-04 00:07:14,102 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:07:17,198 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:07:22,940 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:07:26,738 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 00:07:26,746 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:08:38,234 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 00:08:38,267 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-04 00:08:38,278 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:08:40,936 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:09:38,674 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:09:43,448 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:09:49,449 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:09:51,932 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 00:09:51,948 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:13:37,685 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 00:13:37,717 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-04 00:13:37,740 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:13:57,973 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:23:01,468 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:34:45,267 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:34:49,316 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:35:54,535 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:50:29,080 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:50:32,201 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:57:27,537 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:57:30,782 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 00:59:33,990 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 00:59:36,885 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 01:04:27,192 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 01:04:29,762 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 01:05:45,809 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 01:05:52,838 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 01:05:55,470 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 01:05:56,079 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 01:05:58,892 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 01:05:58,906 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:33:47,502 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:33:57,301 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 10:33:57,308 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-04 10:33:57,320 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:34:00,283 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 10:36:36,735 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:36:38,171 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:36:40,649 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 10:47:24,701 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:47:27,718 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 10:48:21,593 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:50:08,425 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:50:21,515 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:50:24,931 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 10:50:34,446 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:51:04,356 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:51:06,285 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 10:52:57,180 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 10:52:59,818 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 11:13:25,030 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 11:27:48,785 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:27:51,680 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 11:28:01,630 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 11:28:04,581 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 11:28:04,615 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:28:08,958 views: Viewing Book "ღამის სკოლა" by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-03-04 11:28:11,755 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:28:48,499 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:28:51,227 views: Viewing Book "ღამის სკოლა" by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-03-04 11:28:52,973 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:29:03,459 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:30:04,507 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:30:46,397 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:30:51,529 views: Viewing Book "ღამის სკოლა" by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-03-04 11:30:53,441 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:31:15,483 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:31:20,488 views: Viewing Book "ღამის სკოლა" by ლი ჩაილდი, IP: 127.0.0.1
+INFO 2025-03-04 11:31:22,451 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:37:26,119 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-04 11:37:26,126 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-04 11:37:26,142 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:37:30,645 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 11:39:10,191 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-04 11:39:13,660 views: Viewing Index Page, IP: 127.0.0.1
+INFO 2025-03-04 11:39:17,239 views: Started Registering User, IP: 127.0.0.1
+INFO 2025-03-04 11:39:23,138 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-07 20:17:14,441 views: Books found: 0
+INFO 2025-03-07 20:17:19,402 views: Books found: 7
+INFO 2025-03-07 20:28:10,887 views: Books found: 0
+INFO 2025-03-07 20:28:18,776 views: Books found: 3
+INFO 2025-03-07 20:28:26,200 views: Books found: 11
+INFO 2025-03-07 20:28:31,610 views: Books found: 11
+INFO 2025-03-07 20:28:36,154 views: Books found: 0
+INFO 2025-03-07 20:33:24,210 views: Books found: 0
+INFO 2025-03-07 20:33:27,881 views: Books found: 11
+INFO 2025-03-07 20:33:30,556 views: Books found: 0
+INFO 2025-03-07 20:33:38,837 views: Books found: 11
+INFO 2025-03-07 20:33:46,604 views: Books found: 3
+INFO 2025-03-07 21:30:05,310 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-07 21:30:34,085 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-07 21:30:35,545 views: Logged in user 'akaki', IP: 127.0.0.1
+INFO 2025-03-07 21:56:55,754 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-07 21:56:55,754 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-07 21:57:16,654 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-07 21:57:26,546 views: Started Login, IP: 127.0.0.1
+INFO 2025-03-07 21:57:30,831 views: Logged in user 'asdasdasd', IP: 127.0.0.1
+INFO 2025-03-07 22:00:51,945 views: Logging out user 'asdasdasd', IP: 127.0.0.1
+INFO 2025-03-07 22:00:51,948 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-07 22:01:30,059 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-07 22:01:30,059 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-07 22:02:02,393 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-07 22:02:02,393 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-07 22:02:36,710 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-07 22:02:36,716 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-07 22:03:23,783 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-07 22:03:23,786 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-07 22:04:20,843 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-07 22:04:20,843 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-07 22:04:40,628 views: Logging out user 'akaki', IP: 127.0.0.1
+INFO 2025-03-07 22:04:40,631 views: Logged out user, IP: 127.0.0.1
+INFO 2025-03-10 13:45:46,930 views: Books found: 0

@@ -1,0 +1,315 @@
+{% extends 'base.html' %}
+{% block title %} Book Manager {% endblock %}
+{% block content %}
+
+
+{% load static %}  <!-- This loads the static files -->
+<link rel="stylesheet" href="{% static 'css/styles.css' %}">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian:wght@100..900&family=Special+Elite&display=swap');
+</style>
+
+<div style="background-image: url('/media/backgrounds/44420740_9067415.jpg'); background-size: cover; background-position: center; min-height: 100vh;">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col md-12">
+
+                <div class="jumbotron p-3">
+
+
+                    <div style="position: relative;">
+
+                        <h2 style="display: flex; justify-content: center; align-items: center; width: 100%; color:white; font-family: 'Noto Serif Georgian', cursive; padding-block: 5px">
+                            <b>📚 Welcome to Book Manager 📚</b>
+                        </h2>
+
+                    </div>
+
+
+                    <img src="/media/backgrounds/378095555_a8514029-ca02-4f75-88ca-5affd797536f.jpg"
+                         class="img-thumbnail"
+                         alt="..."
+                         style="display: block; margin-left: auto; margin-right: auto;">
+
+                    {% if messages %}
+                        <div style="padding-top: 20px">
+                            {% for message in messages %}
+                                {% if "success" in message.tags %}
+                                    <div class="alert alert-success">{{ message }}</div>
+                                {% elif "error" in message.tags %}
+                                    <div class="alert alert-danger">{{ message }}</div>
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                        </div>
+                </div>
+                <div class="d-flex justify-content-between" style="height: 40px; margin-bottom: 20px">
+                    {% include 'paginator.html' %}
+
+                    <form class="d-flex" role="search" method="get">
+                        <input class="form-control me-2" type="search" name="search_title" placeholder="Title"
+                               aria-label="search"
+                               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; width: 170px;">
+                        <input class="form-control me-2" type="search" name="search_author" placeholder="Author"
+                               aria-label="search"
+                               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; width: 170px;">
+                        <button class="btn btn-outline-success me-3 w-auto" type="submit"
+                                style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold">
+                            Search
+                        </button>
+                    </form>
+
+                </div>
+
+
+                <table class="table table-hover table-striped">
+
+                    <tr valign="middle" style="font-family: 'Special Elite', 'cursive'">
+                        <th>ID</th>
+                        <th style="width: 350px">Title</th>
+                        <th style="width: 100px">Author</th>
+                        <th style="width: 200px">Description</th>
+                        <th style="white-space: nowrap;" height="55px">
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <span>Language</span>
+                                <div class="dropdown">
+                                    <button class="btn dropdown" type="button" data-bs-toggle="dropdown"
+                                            aria-expanded="false"
+                                            style="width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; padding: 0;">
+                                        <img src="/media/filter_logo.png" alt="Image Description"
+                                             style="width: 36px; height: 36px; padding-bottom: 5px"/>
+                                    </button>
+
+                                    <ul class="dropdown-menu">
+                                        {% for language in languages %}
+                                        <li><a class="dropdown-item" href="?language={{ language.id }}">
+                                            {{ language.name }}
+                                        </a></li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </div>
+                        </th>
+
+                        <th style="white-space: nowrap;" height="55px">
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <span>Genre</span>
+                                <div class="dropdown">
+                                     <button class="btn dropdown" type="button" data-bs-toggle="dropdown"
+                                            aria-expanded="false"
+                                            style="width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; padding: 0;">
+                                        <img src="/media/filter_logo.png" alt="Image Description"
+                                             style="width: 36px; height: 36px; padding-bottom: 5px"/>
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        {% for genre in genres %}
+                                        <li><a class="dropdown-item" href="?genre={{ genre.id }}">{{ genre.name }}</a>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </div>
+                        </th>
+
+                        <th>Shelf</th>
+                        <th>Quantity</th>
+                        <th style="font-family: 'Noto Serif Georgian', 'cursive'; text-align: center; vertical-align: middle;">
+                            <a href="{% url 'add_book' %}">
+                                <button type="button" class="btn btn-success" data-toggle="modal"
+                                        data-target="#mymodal" style="font-weight: bold; white-space: nowrap;">
+                                    Add New Book
+                                </button>
+                            </a>
+                        </th>
+
+                    </tr>
+
+                    <!-- for data info -->
+
+                    {% for book in books %}
+                    <tr style="font-family: 'Noto Serif Georgian', cursive;" valign="middle">
+                        <td>{{ book.id }}</td>
+                        <td style="width: 350px">{{ book.title }}</td>
+                        <td style="width: 100px">{{ book.author }}</td>
+                        <td style="width: 200px">
+                            <!-- Button trigger modal -->
+                            <button type="button" class="btn theme-button"
+                                    style="font-weight: bold; width: 160px"
+                                    data-bs-toggle="modal" data-bs-target="#exampleModal{{ book.id }}">
+                                View<br>Description
+                            </button>
+
+
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal{{ book.id }}" tabindex="-1"
+                                 aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h1 class="modal-title fs-5" id="exampleModalLabel">{{ book.title }}</h1>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                                    aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            {{ book.description }}
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-outline-light me-3"
+                                                    data-bs-dismiss="modal"
+                                                    style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold">
+                                                Close
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>{{ book.language }}</td>
+                        <td>{{ book.genre }}</td>
+                        <td>{{ book.shelf }}</td>
+                        <td>{{ book.book_count }}</td>
+                        <td style="white-space: nowrap; text-align: center;">
+                            {% if user.is_authenticated and perms.core.delete_book %}
+                            <a href="/book/{{ book.id }}" class="btn btn-info" data-toggle="modal"
+                               data-target="#modaledit{{ book.id }}"
+                               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; display: inline-block;">Details</a>
+
+                            <form action="/book/delete/{{ book.id }}/" method="post"
+                                  style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bolder; display: inline-block; margin-left: 5px;">
+                                {% csrf_token %}
+                                <button class="btn btn-danger" type="submit"
+                                        onclick="return confirm('Are you sure to delete?')">Delete
+                                </button>
+                            </form>
+                            {% else %}
+                            <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+                                <a href="/book/{{ book.id }}" class="btn btn-info" data-toggle="modal"
+                                   data-target="#modaledit{{ book.id }}"
+                                   style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; display: inline-block;">
+                                    Details
+                                </a>
+                            </div>
+
+                            {% endif %}
+                        </td>
+
+
+                    </tr>
+
+
+                    <div id="modaledit{{ book.id }}" class="modal fade" role="dialog">
+
+                        <div class="modal-dialog">
+
+                            <div class="modal-content">
+
+                                <div class="modal-header">
+
+                                    <h4 class="modal-title"> Update Book</h4>
+
+
+                                </div>
+
+                                <div class="modal-body">
+
+
+                                    <form action="/book/update/{{ book.id }}" method="post">
+
+
+                                        <div class="form-group">
+
+                                            <label>Title</label>
+                                            <input type="hidden" name="id" value="{{ book.title }}">
+                                            <input type="text" class="form-control" name="Title"
+                                                   value="">
+
+                                        </div>
+
+                                        <div class="form-group">
+
+                                            <label>Author</label>
+                                            <input type="hidden" name="id" value="{{ book.author }}">
+                                            <input type="text" class="form-control" name="Title"
+                                                   value="">
+
+                                        </div>
+
+
+                                        <div class="form-group">
+
+                                            <label>Description</label>
+                                            <input type="hidden" name="id" value="{{ book.description }}">
+                                            <input type="text" class="form-control" name="Title"
+                                                   value="">
+
+                                        </div>
+
+
+                                        <div class="form-group">
+
+                                            <label>Language</label>
+                                            <input type="hidden" name="id" value=" {{ book.language }}">
+                                            <input type="text" class="form-control" name="Title"
+                                                   value="">
+
+                                        </div>
+
+
+                                        <div class="form-group">
+
+                                            <label>Publication Year</label>
+                                            <input type="hidden" name="id" value="{{ book.publication_year }}">
+                                            <input type="text" class="form-control" name="Title"
+                                                   value="">
+
+                                        </div>
+
+
+                                        <div class="form-group">
+
+                                            <button class="btn btn-primary" type="submit">Update</button>
+
+                                        </div>
+
+
+                                    </form>
+
+                                </div>
+
+                                <div class="modal-footer">
+
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+                                </div>
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    {% endfor %}
+
+
+                </table>
+                {% include 'paginator.html' %}
+
+
+            </div>
+
+            <footer style="text-align: center; font-size: 12px; margin-top: 15px; font-weight: bold; padding-bottom: 20px">
+                Images Designed by Freepik
+            </footer>
+        </div>
+
+
+    </div>
+
+
+</div>
+
+{% endblock %}
