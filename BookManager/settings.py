@@ -54,6 +54,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'middleware.response_middleware.ResponseMiddleware',
+    'django.middleware.locale.LocaleMiddleware',
 ]
 
 ROOT_URLCONF = 'BookManager.urls'
@@ -111,8 +112,18 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.1/topics/i18n/
+from django.utils.translation import gettext_lazy as _
 
 LANGUAGE_CODE = 'en-us'
+
+LANGUAGES = [
+    ('en', _('English')),
+    ('ka', _('Georgian')),
+]
+
+LOCALE_PATHS = [
+    BASE_DIR / 'locale',
+]
 
 TIME_ZONE = 'Asia/Tbilisi'
 
@@ -184,3 +195,5 @@ EMAIL_HOST_PASSWORD = 'fbidhqlwilmmmais'
 DEFAULT_FROM_EMAIL = 'khidesheli.akaki@gmail.com'
 
 LOGIN_REDIRECT_URL = '/'
+
+

@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block title %} Book Manager {% endblock %}
 {% block content %}
-
+{% load i18n %}
 
 {% load static %}  <!-- This loads the static files -->
 <link rel="stylesheet" href="{% static 'css/styles.css' %}">
@@ -23,7 +23,7 @@
                     <div style="position: relative;">
 
                         <h2 style="display: flex; justify-content: center; align-items: center; width: 100%; color:white; font-family: 'Noto Serif Georgian', cursive; padding-block: 5px">
-                            <b>📚 Welcome to Book Manager 📚</b>
+                            <b>📚 {% trans "Welcome to book manager" %} 📚</b>
                         </h2>
 
                     </div>
@@ -50,15 +50,15 @@
                     {% include 'paginator.html' %}
 
                     <form class="d-flex" role="search" method="get">
-                        <input class="form-control me-2" type="search" name="search_title" placeholder="Title"
+                        <input class="form-control me-2" type="search" name="search_title" placeholder="{% trans "Title" %}"
                                aria-label="search"
                                style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; width: 170px;">
-                        <input class="form-control me-2" type="search" name="search_author" placeholder="Author"
+                        <input class="form-control me-2" type="search" name="search_author" placeholder="{% trans "Author" %}"
                                aria-label="search"
                                style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; width: 170px;">
                         <button class="btn btn-outline-success me-3 w-auto" type="submit"
                                 style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold">
-                            Search
+                            {% trans "Search" %}
                         </button>
                     </form>
 
@@ -69,12 +69,12 @@
 
                     <tr valign="middle" style="font-family: 'Special Elite', 'cursive'">
                         <th>ID</th>
-                        <th style="width: 350px">Title</th>
-                        <th style="width: 100px">Author</th>
-                        <th style="width: 200px">Description</th>
+                        <th style="width: 350px">{% trans "Title" %}</th>
+                        <th style="width: 100px">{% trans "Author" %}</th>
+                        <th style="width: 200px">{% trans "Description" %}</th>
                         <th style="white-space: nowrap;" height="55px">
                             <div style="display: flex; align-items: center; gap: 10px;">
-                                <span>Language</span>
+                                <span>{% trans "Language" %}</span>
                                 <div class="dropdown">
                                     <button class="btn dropdown" type="button" data-bs-toggle="dropdown"
                                             aria-expanded="false"
@@ -83,7 +83,7 @@
                                              style="width: 36px; height: 36px; padding-bottom: 5px"/>
                                     </button>
 
-                                    <ul class="dropdown-menu">
+                                    <ul class="dropdown-menu" style="min-width: auto">
                                         {% for language in languages %}
                                         <li><a class="dropdown-item" href="?language={{ language.id }}">
                                             {{ language.name }}
@@ -96,7 +96,7 @@
 
                         <th style="white-space: nowrap;" height="55px">
                             <div style="display: flex; align-items: center; gap: 10px;">
-                                <span>Genre</span>
+                                <span>{% trans "Genre" %}</span>
                                 <div class="dropdown">
                                      <button class="btn dropdown" type="button" data-bs-toggle="dropdown"
                                             aria-expanded="false"
@@ -114,13 +114,13 @@
                             </div>
                         </th>
 
-                        <th>Shelf</th>
-                        <th>Quantity</th>
+                        <th>{% trans "Shelf" %}</th>
+                        <th>{% trans "Quantity" %}</th>
                         <th style="font-family: 'Noto Serif Georgian', 'cursive'; text-align: center; vertical-align: middle;">
                             <a href="{% url 'add_book' %}">
                                 <button type="button" class="btn btn-success" data-toggle="modal"
                                         data-target="#mymodal" style="font-weight: bold; white-space: nowrap;">
-                                    Add New Book
+                                    {% trans "Add New Book" %}
                                 </button>
                             </a>
                         </th>
@@ -139,7 +139,7 @@
                             <button type="button" class="btn theme-button"
                                     style="font-weight: bold; width: 160px"
                                     data-bs-toggle="modal" data-bs-target="#exampleModal{{ book.id }}">
-                                View<br>Description
+                                {% blocktrans %}View<br>Description{% endblocktrans %}
                             </button>
 
 
@@ -161,7 +161,7 @@
                                             <button type="button" class="btn btn-outline-light me-3"
                                                     data-bs-dismiss="modal"
                                                     style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold">
-                                                Close
+                                                {% trans "Close" %}
                                             </button>
                                         </div>
                                     </div>
@@ -176,13 +176,13 @@
                             {% if user.is_authenticated and perms.core.delete_book %}
                             <a href="/book/{{ book.id }}" class="btn btn-info" data-toggle="modal"
                                data-target="#modaledit{{ book.id }}"
-                               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; display: inline-block;">Details</a>
+                               style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; display: inline-block;">{% trans "Details" %}</a>
 
                             <form action="/book/delete/{{ book.id }}/" method="post"
                                   style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bolder; display: inline-block; margin-left: 5px;">
                                 {% csrf_token %}
                                 <button class="btn btn-danger" type="submit"
-                                        onclick="return confirm('Are you sure to delete?')">Delete
+                                        onclick="return confirm('{% trans "Are you sure you want to delete the book" %}?')">{% trans "Delete" %}
                                 </button>
                             </form>
                             {% else %}
@@ -190,108 +190,12 @@
                                 <a href="/book/{{ book.id }}" class="btn btn-info" data-toggle="modal"
                                    data-target="#modaledit{{ book.id }}"
                                    style="font-family: 'Ubuntu', 'sans-serif'; font-weight: bold; display: inline-block;">
-                                    Details
+                                    {% trans "Details" %}
                                 </a>
                             </div>
-
                             {% endif %}
                         </td>
-
-
                     </tr>
-
-
-                    <div id="modaledit{{ book.id }}" class="modal fade" role="dialog">
-
-                        <div class="modal-dialog">
-
-                            <div class="modal-content">
-
-                                <div class="modal-header">
-
-                                    <h4 class="modal-title"> Update Book</h4>
-
-
-                                </div>
-
-                                <div class="modal-body">
-
-
-                                    <form action="/book/update/{{ book.id }}" method="post">
-
-
-                                        <div class="form-group">
-
-                                            <label>Title</label>
-                                            <input type="hidden" name="id" value="{{ book.title }}">
-                                            <input type="text" class="form-control" name="Title"
-                                                   value="">
-
-                                        </div>
-
-                                        <div class="form-group">
-
-                                            <label>Author</label>
-                                            <input type="hidden" name="id" value="{{ book.author }}">
-                                            <input type="text" class="form-control" name="Title"
-                                                   value="">
-
-                                        </div>
-
-
-                                        <div class="form-group">
-
-                                            <label>Description</label>
-                                            <input type="hidden" name="id" value="{{ book.description }}">
-                                            <input type="text" class="form-control" name="Title"
-                                                   value="">
-
-                                        </div>
-
-
-                                        <div class="form-group">
-
-                                            <label>Language</label>
-                                            <input type="hidden" name="id" value=" {{ book.language }}">
-                                            <input type="text" class="form-control" name="Title"
-                                                   value="">
-
-                                        </div>
-
-
-                                        <div class="form-group">
-
-                                            <label>Publication Year</label>
-                                            <input type="hidden" name="id" value="{{ book.publication_year }}">
-                                            <input type="text" class="form-control" name="Title"
-                                                   value="">
-
-                                        </div>
-
-
-                                        <div class="form-group">
-
-                                            <button class="btn btn-primary" type="submit">Update</button>
-
-                                        </div>
-
-
-                                    </form>
-
-                                </div>
-
-                                <div class="modal-footer">
-
-                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-
-                                </div>
-
-
-                            </div>
-
-                        </div>
-
-                    </div>
                     {% endfor %}
 
 
