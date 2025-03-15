@@ -19,12 +19,27 @@ from django.urls import path, include
 from django.conf.urls.static import static
 from django.conf import settings
 from django.views.i18n import set_language
+from drf_yasg.views import get_schema_view
+from drf_yasg import openapi
+
+schema_view = get_schema_view(
+    openapi.Info(
+        title="Book Management API",
+        default_version='v1',
+        description="Book Management API",
+        terms_of_service="https://www.google.com/policies/terms/",
+        contact=openapi.Contact(email="khidesheli.akaki@gmail.com"),
+    )
+)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('core.urls')),
+    path('api/', include('api.urls', namespace='api')),
     path('auth/', include('authentication.urls')),
     path('i18n/setlang/', set_language, name='set_language'),
+    path('docs/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger'),
+    path('docs-redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
 if settings.DEBUG:
