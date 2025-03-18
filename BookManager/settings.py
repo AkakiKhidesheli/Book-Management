@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'authentication',
     'rest_framework',
     'drf_yasg',
+    'django_filters'
 ]
 
 MIDDLEWARE = [
@@ -198,3 +199,7 @@ DEFAULT_FROM_EMAIL = 'khidesheli.akaki@gmail.com'
 LOGIN_REDIRECT_URL = '/'
 
 
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10,
+}

@@ -1,32 +1,73 @@
 from django.shortcuts import render, get_object_or_404
 from drf_yasg import openapi
 from drf_yasg.utils import swagger_auto_schema
+from rest_framework.pagination import PageNumberPagination
 from rest_framework.parsers import MultiPartParser, FormParser
 from rest_framework.response import Response
 from rest_framework.decorators import api_view, parser_classes
 from rest_framework import status
 from core.models import Book
+from .filters import BookFilter
 from .serializers import BookSerializer
 
 
 # Create your views here.
 
+class CustomPagination(PageNumberPagination):
+    page_size = 10
+    page_query_param = 'page'
+    page_size_query_param = 'page_size'
+    max_page_size = 20
+
 @swagger_auto_schema(
     method='GET',
     operation_summary='Get Book Details',
     operation_description='This endpoint will return the Book Details',
+    manual_parameters=[
+        openapi.Parameter('page', openapi.IN_QUERY, type=openapi.TYPE_INTEGER),
+        openapi.Parameter('page_size', openapi.IN_QUERY, type=openapi.TYPE_INTEGER),
+        openapi.Parameter('title', openapi.IN_QUERY, type=openapi.TYPE_STRING),
+        openapi.Parameter('author', openapi.IN_QUERY, type=openapi.TYPE_STRING),
+        openapi.Parameter('language', openapi.IN_QUERY, type=openapi.TYPE_STRING),
+        openapi.Parameter('genre', openapi.IN_QUERY, type=openapi.TYPE_STRING),
+        openapi.Parameter('shelf', openapi.IN_QUERY, type=openapi.TYPE_INTEGER),
+    ],
     responses={
         status.HTTP_200_OK: BookSerializer,
         status.HTTP_400_BAD_REQUEST: openapi.Response(
             description='Invalid Request',
         ),
-    }
+    },
 )
 @api_view(['GET'])
 def book_list(request):
-    books = Book.objects.all()
-    serializer = BookSerializer(books, many=True)
-    return Response(serializer.data, status=status.HTTP_200_OK)
+    books = Book.objects.all().order_by('id')
+
+    filterset = BookFilter(request.query_params, queryset=books)
+
+    if filterset.is_valid():
+        books = filterset.qs
+
+    # paginator = PageNumberPagination()
+    paginator = CustomPagination()
+    paginated_queryset = paginator.paginate_queryset(books, request)
+
+    # serializer = BookSerializer(books, many=True)
+    serializer = BookSerializer(paginated_queryset, many=True)
+
+
+    result = {
+        'count': paginator.page.paginator.count,
+        'next': paginator.get_next_link(),
+        'previous': paginator.get_previous_link(),
+        'results': serializer.data,
+    }
+
+
+
+    # return Response(serializer.data, status=status.HTTP_200_OK)
+    return Response(result, status=status.HTTP_200_OK)
+
 
 
 @swagger_auto_schema(
